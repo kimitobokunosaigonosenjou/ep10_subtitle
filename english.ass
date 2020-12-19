@@ -1,0 +1,267 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:22.87,0:00:25.45,Default,,0,0,0,,Please say the access code.
+Dialogue: 0,0:00:25.45,0:00:30.12,Default,,0,0,0,,Above heaven, below heaven,\Nthe only treasure is the Emperor.
+Dialogue: 0,0:00:40.95,0:00:47.16,Default,,0,0,0,,The Successor of the Black Steel has returned.\NAlso, in regard to Salinger--
+Dialogue: 0,0:00:47.16,0:00:52.41,Default,,0,0,0,,Let's skip that. Anyway, the Eight Great\NApostles really are troublesome, huh?
+Dialogue: 0,0:00:52.41,0:00:55.62,Default,,0,0,0,,Are they still trying to capture a purebred?
+Dialogue: 0,0:00:55.62,0:00:58.54,Default,,0,0,0,,You can stop them if you say the word.
+Dialogue: 0,0:00:58.54,0:01:01.04,Default,,0,0,0,,It's not even worth my time.
+Dialogue: 0,0:01:01.04,0:01:07.04,Default,,0,0,0,,Something very exciting is happening.\NThis is the first in 100 years.
+Dialogue: 0,0:01:07.04,0:01:13.49,Default,,0,0,0,,Founder Nebulis... Finally,\None of your bloodlines has fallen...
+Dialogue: 0,0:01:13.49,0:01:17.37,Default,,0,0,0,,A witch princess has fallen in love\Nwith an Imperial swordsman.
+Dialogue: 0,0:01:55.45,0:02:01.16,Default,,0,0,0,,Your Majesty, I hope you are doing very well.
+Dialogue: 0,0:02:01.16,0:02:07.20,Default,,0,0,0,,Ah, Princess Sisbell. It is an honor\Nto be in your presence.
+Dialogue: 0,0:02:25.95,0:02:29.66,Default,,0,0,0,,Milady, Her Majesty is asking for you.
+Dialogue: 0,0:02:29.66,0:02:31.87,Default,,0,0,0,,Mother is?
+Dialogue: 0,0:02:31.87,0:02:38.04,Default,,0,0,0,,Third Princess Sisbell, I am giving you\Nan order to head to Alsamira.
+Dialogue: 0,0:02:38.04,0:02:43.58,Default,,0,0,0,,Unlike Ein, Alsamira is an independent\Nnation that hasn't declared neutrality.
+Dialogue: 0,0:02:43.58,0:02:48.91,Default,,0,0,0,,We have intel that Alsamira is fostering\Na relationship with the Empire.
+Dialogue: 0,0:02:48.91,0:02:56.33,Default,,0,0,0,,I need you and your astral spirit to\Nfind out if they'll side with the Empire.
+Dialogue: 0,0:02:56.33,0:02:58.33,Default,,0,0,0,,I understand.
+Dialogue: 0,0:02:58.33,0:03:03.33,Default,,0,0,0,,Sisbell, would you like to take\Nmy guards for this quest?
+Dialogue: 0,0:03:03.33,0:03:08.49,Default,,0,0,0,,I will be fine. Please keep\Nyour guards by your side.
+Dialogue: 0,0:03:18.54,0:03:25.33,Default,,0,0,0,,Your Majesty, First Princess\NElletear has returned.
+Dialogue: 0,0:03:25.33,0:03:26.91,Default,,0,0,0,,I see.
+Dialogue: 0,0:03:44.29,0:03:49.08,Default,,0,0,0,,Iska! They didn't find anything\Nwrong in your physical, did they?
+Dialogue: 0,0:03:49.08,0:03:55.16,Default,,0,0,0,,All clear. Though they kept asking\Nif I was tortured or interrogated.
+Dialogue: 0,0:03:55.16,0:03:56.83,Default,,0,0,0,,Everyone else?
+Dialogue: 0,0:03:56.83,0:03:59.54,Default,,0,0,0,,We need to go back in a week.
+Dialogue: 0,0:03:59.54,0:04:06.58,Default,,0,0,0,,They want to make sure the artificial\Nastral crests stamped on us will disappear.
+Dialogue: 0,0:04:08.08,0:04:15.04,Default,,0,0,0,,She's trying to escape reality,\Nsince {\i1}her{\i0} astral crest isn't going anywhere.
+Dialogue: 0,0:04:15.04,0:04:17.79,Default,,0,0,0,,Re-examination is a problem.
+Dialogue: 0,0:04:17.79,0:04:23.83,Default,,0,0,0,,Risya, this is illegal. I'll be reporting this\Nto the Imperial Senate.
+Dialogue: 0,0:04:23.83,0:04:29.62,Default,,0,0,0,,Oww... Come on, I said I was sorry, Mikki.
+Dialogue: 0,0:04:29.62,0:04:31.54,Default,,0,0,0,,Risya, what's wrong?
+Dialogue: 0,0:04:31.54,0:04:34.08,Default,,0,0,0,,Uh, well, you know...
+Dialogue: 0,0:04:35.87,0:04:42.66,Default,,0,0,0,,Hello, Unit N07. I'm Michaela from\NHQ's medical coordination team.
+Dialogue: 0,0:04:42.66,0:04:48.66,Default,,0,0,0,,N-Nice to meet you!\NSo, um, is something wrong?
+Dialogue: 0,0:04:48.66,0:04:53.33,Default,,0,0,0,,Something is very wrong.\NI have reviewed your work hours.
+Dialogue: 0,0:04:57.33,0:05:00.58,Default,,0,0,0,,Everyone is working too much.
+Dialogue: 0,0:05:00.58,0:05:05.95,Default,,0,0,0,,Military law limits consecutive combat\Nallowed for Third Division to 30 days.
+Dialogue: 0,0:05:05.95,0:05:10.54,Default,,0,0,0,,We extend that to 45 days\Nfor special ops, but...
+Dialogue: 0,0:05:10.54,0:05:13.83,Default,,0,0,0,,Basically, you are all working way too hard.
+Dialogue: 0,0:05:14.99,0:05:17.04,Default,,0,0,0,,Huh?
+Dialogue: 0,0:05:17.04,0:05:20.04,Default,,0,0,0,,Under {\i1}somebody's{\i0} irresponsible command,
+Dialogue: 0,0:05:20.04,0:05:22.58,Default,,0,0,0,,you were ordered to engage\Nthe Ice Calamity Witch
+Dialogue: 0,0:05:22.58,0:05:26.83,Default,,0,0,0,,and perform other risky missions.\NThree units would've been KIA by now.
+Dialogue: 0,0:05:26.83,0:05:31.20,Default,,0,0,0,,HQ's decision would be under scrutiny\Nif the public ever found out.
+Dialogue: 0,0:05:31.20,0:05:34.58,Default,,0,0,0,,It's fine. We just have to not get caught.
+Dialogue: 0,0:05:34.58,0:05:36.62,Default,,0,0,0,,It is so not fine!
+Dialogue: 0,0:05:36.62,0:05:38.99,Default,,0,0,0,,What does this all mean, exactly?
+Dialogue: 0,0:05:38.99,0:05:44.16,Default,,0,0,0,,We're ordering you to take leave.\NYou are not allowed to work for 60 days.
+Dialogue: 0,0:05:44.16,0:05:46.16,Default,,0,0,0,,Sixty days?!
+Dialogue: 0,0:05:47.45,0:05:51.79,Default,,0,0,0,,That is all. Now, let's get back to work, Risya.
+Dialogue: 0,0:05:53.08,0:05:57.37,Default,,0,0,0,,Well, bye, everyone. Enjoy your vacay.
+Dialogue: 0,0:05:59.04,0:06:02.12,Default,,0,0,0,,I wish I could have a vacation...
+Dialogue: 0,0:06:03.66,0:06:10.33,Default,,0,0,0,,Forced leave?! Does that mean the astral\Ncrest check-up is postponed, too?!
+Dialogue: 0,0:06:10.33,0:06:12.95,Default,,0,0,0,,It isn't what it sounds like.
+Dialogue: 0,0:06:12.95,0:06:14.24,Default,,0,0,0,,Huh?
+Dialogue: 0,0:06:14.24,0:06:19.66,Default,,0,0,0,,Any normal unit may have been KIA\Non each of the three missions we went on.
+Dialogue: 0,0:06:19.66,0:06:24.29,Default,,0,0,0,,They're only giving us 60 days\Nof leave to call it even.
+Dialogue: 0,0:06:24.29,0:06:27.54,Default,,0,0,0,,Well, when you put it like that...
+Dialogue: 0,0:06:27.54,0:06:30.37,Default,,0,0,0,,But we're not in hot water anymore.
+Dialogue: 0,0:06:30.37,0:06:33.08,Default,,0,0,0,,We have more time to deal\Nwith Boss' astral crest.
+Dialogue: 0,0:06:33.08,0:06:38.54,Default,,0,0,0,,If we're careless about finding a solution,\Nthey'll catch on. Should we leave?
+Dialogue: 0,0:06:38.54,0:06:44.24,Default,,0,0,0,,I'm on board! It'll look natural\Nto go away on a vacation.
+Dialogue: 0,0:06:44.24,0:06:47.70,Default,,0,0,0,,Someplace far away from the Empire,\Nlike a resort, will be great!
+Dialogue: 0,0:06:56.79,0:06:59.33,Default,,0,0,0,,Phew, I'm all done.
+Dialogue: 0,0:07:00.79,0:07:06.16,Default,,0,0,0,,That was from two weeks ago.\NThis is last week's and this week's work.
+Dialogue: 0,0:07:06.16,0:07:13.49,Default,,0,0,0,,No! I can't do this! Look, Rin!\NI have callus from writing so much!
+Dialogue: 0,0:07:13.49,0:07:16.49,Default,,0,0,0,,You could use your other hand.
+Dialogue: 0,0:07:16.49,0:07:17.91,Default,,0,0,0,,Is this torture?!
+Dialogue: 0,0:07:19.66,0:07:23.54,Default,,0,0,0,,I'm only kidding. Shall we take a break?
+Dialogue: 0,0:07:28.91,0:07:33.62,Default,,0,0,0,,This whole day, I've been in the study\Nhelping Mother's administrative work.
+Dialogue: 0,0:07:33.62,0:07:37.54,Default,,0,0,0,,It's so monotonous and makes me sleepy.\NI need excitement.
+Dialogue: 0,0:07:37.54,0:07:43.49,Default,,0,0,0,,If by excitement you mean thrill,\Nyou had enough of that a few days ago.
+Dialogue: 0,0:07:48.04,0:07:49.12,Default,,0,0,0,,Lady Alice.
+Dialogue: 0,0:07:49.12,0:07:53.87,Default,,0,0,0,,N-No! I wasn't remembering that day...
+Dialogue: 0,0:07:53.87,0:07:55.62,Default,,0,0,0,,Here's your milk tea.
+Dialogue: 0,0:07:56.95,0:08:01.33,Default,,0,0,0,,I've added more sugar than usual,\Nso please stir well before drinking.
+Dialogue: 0,0:08:01.33,0:08:03.37,Default,,0,0,0,,Th-Thanks.
+Dialogue: 0,0:08:19.49,0:08:21.58,Default,,0,0,0,,A fanfare of someone's return.
+Dialogue: 0,0:08:21.58,0:08:23.83,Default,,0,0,0,,Maybe for my older sister, Elletear?
+Dialogue: 0,0:08:23.83,0:08:32.16,Default,,0,0,0,,Back so quickly? Her campaign to woo\Nthe voters must be going so well.
+Dialogue: 0,0:08:32.16,0:08:33.91,Default,,0,0,0,,Rin.
+Dialogue: 0,0:08:33.91,0:08:35.91,Default,,0,0,0,,Shall we welcome her return?
+Dialogue: 0,0:08:37.04,0:08:38.83,Default,,0,0,0,,We should.
+Dialogue: 0,0:08:48.24,0:08:49.58,Default,,0,0,0,,Sisbell?
+Dialogue: 0,0:08:50.62,0:08:53.99,Default,,0,0,0,,Are you going to go see Sis? Let's go toget--
+Dialogue: 0,0:08:53.99,0:08:55.91,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:08:57.79,0:09:02.16,Default,,0,0,0,,She's like a different person these days.
+Dialogue: 0,0:09:02.16,0:09:08.08,Default,,0,0,0,,She used to be as energetic\Nand curious as you, Lady Alice.
+Dialogue: 0,0:09:08.08,0:09:09.87,Default,,0,0,0,,I don't blame her.
+Dialogue: 0,0:09:09.87,0:09:16.74,Default,,0,0,0,,With the ministers discussing who'll be\Nthe next queen, things are awkward.
+Dialogue: 0,0:09:16.74,0:09:19.79,Default,,0,0,0,,I feel it, too. I'd rather just\Nleave the palace.
+Dialogue: 0,0:09:19.79,0:09:21.33,Default,,0,0,0,,You cannot.
+Dialogue: 0,0:09:21.33,0:09:22.70,Default,,0,0,0,,Why not?
+Dialogue: 0,0:09:22.70,0:09:28.79,Default,,0,0,0,,Right now, powerful astral mages are\Nconcentrated in the Central providence.
+Dialogue: 0,0:09:28.79,0:09:31.08,Default,,0,0,0,,In preparation for the Empire's invasion,
+Dialogue: 0,0:09:31.08,0:09:36.45,Default,,0,0,0,,Her Majesty is considering allocating\Nthat power throughout the Sovereignty.
+Dialogue: 0,0:09:36.45,0:09:40.41,Default,,0,0,0,,That's right. So why shouldn't I leave, then?
+Dialogue: 0,0:09:40.41,0:09:43.58,Default,,0,0,0,,Well, it appears Lady Sisbell\Nis leaving instead.
+Dialogue: 0,0:09:43.58,0:09:48.54,Default,,0,0,0,,She's headed to the independent nation\Nin the East under Her Majesty's orders.
+Dialogue: 0,0:09:48.54,0:09:49.74,Default,,0,0,0,,She is?
+Dialogue: 0,0:09:49.74,0:09:52.41,Default,,0,0,0,,Therefore, you must stay.
+Dialogue: 0,0:09:52.41,0:09:56.49,Default,,0,0,0,,Ugh... fine.
+Dialogue: 0,0:09:57.83,0:10:00.54,Default,,0,0,0,,I need more excitement...
+Dialogue: 0,0:10:12.08,0:10:13.74,Default,,0,0,0,,Let us go.
+Dialogue: 0,0:10:17.49,0:10:23.45,Default,,0,0,0,,Are you positive about just having me\Nas your guard for this trip to Alsamira?
+Dialogue: 0,0:10:23.45,0:10:26.87,Default,,0,0,0,,Schwartz, you should know better.
+Dialogue: 0,0:10:30.33,0:10:32.45,Default,,0,0,0,,Have you heard the rumors?
+Dialogue: 0,0:10:32.45,0:10:39.08,Default,,0,0,0,,Yes, the Second Princess, Aliceliese,\Nis a strong candidate for the election.
+Dialogue: 0,0:10:39.08,0:10:42.91,Default,,0,0,0,,We must make our decision soon.
+Dialogue: 0,0:10:42.91,0:10:45.95,Default,,0,0,0,,The palace is full of people like them.
+Dialogue: 0,0:10:45.95,0:10:49.87,Default,,0,0,0,,I will not be putting my trust\Nin anyone but you.
+Dialogue: 0,0:10:51.66,0:10:56.54,Default,,0,0,0,,That nightmare will come true.\NSomeone is coming after Mother.
+Dialogue: 0,0:10:56.54,0:10:59.91,Default,,0,0,0,,There's a monster trying\Nto take over this nation.
+Dialogue: 0,0:11:00.91,0:11:07.04,Default,,0,0,0,,Be brave, Sisbell.\NYou're the only one who knows of this!
+Dialogue: 0,0:11:08.04,0:11:09.29,Default,,0,0,0,,Milady?
+Dialogue: 0,0:11:09.29,0:11:12.83,Default,,0,0,0,,It's nothing. Let's go, Schwartz.
+Dialogue: 0,0:11:14.91,0:11:18.70,Default,,0,0,0,,Mother, I promise I will protect you.
+Dialogue: 0,0:11:18.70,0:11:23.04,Default,,0,0,0,,So please be safe while I'm away.
+Dialogue: 0,0:11:29.62,0:11:32.54,Default,,0,0,0,,Seems Sisbell has left.
+Dialogue: 0,0:11:32.54,0:11:35.41,Default,,0,0,0,,I haven't spoken to her for quite some time.
+Dialogue: 0,0:11:35.41,0:11:41.33,Default,,0,0,0,,Between the three sisters,\Nyou're the only one that always visits us.
+Dialogue: 0,0:11:41.33,0:11:43.74,Default,,0,0,0,,Am I welcomed?
+Dialogue: 0,0:11:43.74,0:11:45.70,Default,,0,0,0,,Of course you are...
+Dialogue: 0,0:11:47.45,0:11:49.66,Default,,0,0,0,,...Elletear.
+Dialogue: 0,0:11:52.99,0:11:55.70,Default,,0,0,0,,It's been a while, Elletear.
+Dialogue: 0,0:11:55.70,0:11:57.95,Default,,0,0,0,,I'm delighted the eldest daughter of Lou
+Dialogue: 0,0:11:57.95,0:12:01.58,Default,,0,0,0,,would take the time to visit me,\Na Zoa, so shortly after her return.
+Dialogue: 0,0:12:01.58,0:12:06.99,Default,,0,0,0,,Please don't say such a thing.\NLou or Zoa, it shouldn't matter.
+Dialogue: 0,0:12:06.99,0:12:09.87,Default,,0,0,0,,Especially during a time like this...
+Dialogue: 0,0:12:09.87,0:12:11.83,Default,,0,0,0,,Is something the matter?
+Dialogue: 0,0:12:13.24,0:12:15.91,Default,,0,0,0,,It would shake this nation to the core.
+Dialogue: 0,0:12:15.91,0:12:17.70,Default,,0,0,0,,Oh?
+Dialogue: 0,0:12:17.70,0:12:23.99,Default,,0,0,0,,Someone close to us is involved with the\NEmpire behind the scenes. Did you know?
+Dialogue: 0,0:12:23.99,0:12:29.45,Default,,0,0,0,,What an interesting thing to say.\NDo you have solid proof?
+Dialogue: 0,0:12:29.45,0:12:33.70,Default,,0,0,0,,I don't think they have become\Npawns of the Empire yet.
+Dialogue: 0,0:12:33.70,0:12:38.29,Default,,0,0,0,,But I cannot let this go on...\NI'm at a loss as to what to do...
+Dialogue: 0,0:12:38.29,0:12:40.79,Default,,0,0,0,,An intelligent woman like you?
+Dialogue: 0,0:12:41.79,0:12:45.54,Default,,0,0,0,,Tell me, who is this person you speak of?
+Dialogue: 0,0:13:04.12,0:13:06.37,Default,,0,0,0,,Independent nation, Alsamira.
+Dialogue: 0,0:13:06.37,0:13:10.70,Default,,0,0,0,,They may or may not be secretly\Nconsidering becoming the Empire's ally.
+Dialogue: 0,0:13:10.70,0:13:13.08,Default,,0,0,0,,Sure, but that's just a rumor.
+Dialogue: 0,0:13:13.08,0:13:17.29,Default,,0,0,0,,Of course it is. They're making bank\Nwith these resorts.
+Dialogue: 0,0:13:19.74,0:13:24.87,Default,,0,0,0,,It's so hot! This isn't mid-summer hot\Nbut pan-frying hot!
+Dialogue: 0,0:13:24.87,0:13:29.04,Default,,0,0,0,,This is amazing! It really is a tropical resort!
+Dialogue: 0,0:13:29.04,0:13:31.62,Default,,0,0,0,,Looks like they plan on having a blast.
+Dialogue: 0,0:13:31.62,0:13:36.49,Default,,0,0,0,,Well, Captain's safe outside the Empire.
+Dialogue: 0,0:13:36.49,0:13:41.95,Default,,0,0,0,,We need to figure out how to hide\Nher astral crest while we're here.
+Dialogue: 0,0:13:41.95,0:13:45.87,Default,,0,0,0,,Here, Iska. Inflate these for us.
+Dialogue: 0,0:13:45.87,0:13:50.24,Default,,0,0,0,,It's too soon! We {\i1}just{\i0} walked off of the bus.
+Dialogue: 0,0:13:50.24,0:13:55.12,Default,,0,0,0,,Look! Marine Hotel, Hotel Isberia,\Nand the Grand Illumination Group Hotel!
+Dialogue: 0,0:13:55.12,0:14:01.45,Default,,0,0,0,,They're all super famous hotels!\NThis is like a dream! Let's go!
+Dialogue: 0,0:14:01.45,0:14:03.54,Default,,0,0,0,,Hold on, Captain!
+Dialogue: 0,0:14:05.49,0:14:06.45,Default,,0,0,0,,Well...
+Dialogue: 0,0:14:06.45,0:14:08.20,Default,,0,0,0,,Just for today.
+Dialogue: 0,0:14:15.49,0:14:16.99,Default,,0,0,0,,Wow...
+Dialogue: 0,0:14:16.99,0:14:19.37,Default,,0,0,0,,Sorry for the wait!
+Dialogue: 0,0:14:19.37,0:14:23.04,Default,,0,0,0,,It took me a while to blow up my swim tubes.
+Dialogue: 0,0:14:23.04,0:14:25.04,Default,,0,0,0,,What do you think, Iska?
+Dialogue: 0,0:14:25.04,0:14:27.83,Default,,0,0,0,,What about my bathing suit? Is it cute?
+Dialogue: 0,0:14:28.83,0:14:30.79,Default,,0,0,0,,Y-Yes.
+Dialogue: 0,0:14:33.66,0:14:39.79,Default,,0,0,0,,OK, let's do a 100m swim race! Let's go!
+Dialogue: 0,0:14:39.79,0:14:41.65,Default,,0,0,0,,{\an8}Come on, hurry up!
+Dialogue: 0,0:14:40.79,0:14:43.74,Default,,0,0,0,,You can't even swim that long, Boss.
+Dialogue: 0,0:14:56.29,0:14:58.54,Default,,0,0,0,,The wind's getting colder.
+Dialogue: 0,0:14:58.54,0:15:02.91,Default,,0,0,0,,Night in the desert gets chilly.\NI wonder if Captain's okay?
+Dialogue: 0,0:15:02.91,0:15:08.91,Default,,0,0,0,,The beer finished her off.\NShe rarely drinks at all.
+Dialogue: 0,0:15:08.91,0:15:12.49,Default,,0,0,0,,Jhin, could you take Captain to the hotel?
+Dialogue: 0,0:15:12.49,0:15:15.74,Default,,0,0,0,,We'll go get dinner from the supermarket.
+Dialogue: 0,0:15:15.74,0:15:17.41,Default,,0,0,0,,Don't get lost.
+Dialogue: 0,0:15:20.74,0:15:26.24,Default,,0,0,0,,Iska, can you wait here?\NI drank a lot of juice and need to go...
+Dialogue: 0,0:15:26.24,0:15:27.45,Default,,0,0,0,,Okay.
+Dialogue: 0,0:15:27.45,0:15:28.99,Default,,0,0,0,,I'll be back!
+Dialogue: 0,0:15:36.87,0:15:38.33,Default,,0,0,0,,Oh, are you okay?
+Dialogue: 0,0:15:38.33,0:15:45.37,Default,,0,0,0,,Ouch... E-Excuse me. I've gotten lost\Nand was looking at the map.
+Dialogue: 0,0:15:47.83,0:15:49.33,Default,,0,0,0,,You're...
+Dialogue: 0,0:15:51.29,0:15:53.66,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:53.66,0:15:59.20,Default,,0,0,0,,You're... That girl...
+Dialogue: 0,0:16:01.49,0:16:02.20,Default,,0,0,0,,U-Um!
+Dialogue: 0,0:16:02.20,0:16:04.04,Default,,0,0,0,,Thanks for waiting, Iska!
+Dialogue: 0,0:16:05.04,0:16:07.45,Default,,0,0,0,,Huh? What is it?
+Dialogue: 0,0:16:07.45,0:16:09.29,Default,,0,0,0,,N-Nothing!
+Dialogue: 0,0:16:09.29,0:16:13.41,Default,,0,0,0,,Oh, I know! She was just\Nasking for directions, and...
+Dialogue: 0,0:16:13.41,0:16:14.66,Default,,0,0,0,,Who was?
+Dialogue: 0,0:16:14.66,0:16:15.66,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:19.04,0:16:20.70,Default,,0,0,0,,Iska?
+Dialogue: 0,0:16:22.04,0:16:26.99,Default,,0,0,0,,Never mind. Anyway, we should\Nhead to the supermarket. Let's go.
+Dialogue: 0,0:16:33.99,0:16:35.99,Default,,0,0,0,,Is this even possible?!
+Dialogue: 0,0:16:39.49,0:16:45.54,Default,,0,0,0,,He's here! Saint Disciple Iska is here!
+Dialogue: 0,0:16:45.54,0:16:46.79,Default,,0,0,0,,Milady!
+Dialogue: 0,0:16:48.95,0:16:54.16,Default,,0,0,0,,I was looking for you.\NPlease be more kind to this old body.
+Dialogue: 0,0:16:54.16,0:16:55.37,Default,,0,0,0,,I found him!
+Dialogue: 0,0:16:55.37,0:16:56.33,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:16:56.33,0:17:02.70,Default,,0,0,0,,Listen, Schwartz! I finally found\Nmy dream knight that I was looking for!
+Dialogue: 0,0:17:02.70,0:17:07.37,Default,,0,0,0,,I need to talk to you immediately.\NLet's head back to the hotel first.
+Dialogue: 0,0:17:08.70,0:17:10.70,Default,,0,0,0,,What is going on?
+Dialogue: 0,0:17:10.70,0:17:12.29,Default,,0,0,0,,We'll wait for nighttime.
+Dialogue: 0,0:17:15.24,0:17:18.04,Default,,0,0,0,,I'm utterly exhausted.
+Dialogue: 0,0:17:18.04,0:17:23.33,Default,,0,0,0,,You worked hard. There's a meet and greet\Nat 5 AM tomorrow in the Queen's Hall.
+Dialogue: 0,0:17:23.33,0:17:26.95,Default,,0,0,0,,Twenty people including guests from\Nforeign nations and ministers will be there.
+Dialogue: 0,0:17:26.95,0:17:29.54,Default,,0,0,0,,Please be prepared to\Ngreet everyone individually.
+Dialogue: 0,0:17:29.54,0:17:32.62,Default,,0,0,0,,Have you no heart?!
+Dialogue: 0,0:17:32.62,0:17:33.87,Default,,0,0,0,,Alice.
+Dialogue: 0,0:17:33.87,0:17:37.54,Default,,0,0,0,,M-Mother?! Rin, quickly, get the door!
+Dialogue: 0,0:17:37.54,0:17:39.45,Default,,0,0,0,,O-Of course!
+Dialogue: 0,0:17:44.29,0:17:47.12,Default,,0,0,0,,Mother, is something wrong?
+Dialogue: 0,0:17:47.12,0:17:49.95,Default,,0,0,0,,Please come with me.
+Dialogue: 0,0:17:49.95,0:17:51.20,Default,,0,0,0,,What?
+Dialogue: 0,0:18:01.74,0:18:05.04,Default,,0,0,0,,There aren't many people out in this cold.
+Dialogue: 0,0:18:05.04,0:18:10.62,Default,,0,0,0,,Keep your guard up and be\Non the lookout, Schwartz.
+Dialogue: 0,0:18:10.62,0:18:14.41,Default,,0,0,0,,Stars, show me your past.
+Dialogue: 0,0:18:18.04,0:18:19.62,Default,,0,0,0,,Iska?
+Dialogue: 0,0:18:19.62,0:18:24.83,Default,,0,0,0,,Never mind. Anyway, we should head\Nto the supermarket. Let's go.
+Dialogue: 0,0:18:27.91,0:18:31.45,Default,,0,0,0,,Milady, are you really\Ngoing to ask for his help?
+Dialogue: 0,0:18:31.45,0:18:33.99,Default,,0,0,0,,Yes. Let's go.
+Dialogue: 0,0:18:36.58,0:18:39.16,Default,,0,0,0,,Mother, where are we going?
+Dialogue: 0,0:18:40.54,0:18:43.41,Default,,0,0,0,,Is that the key to Lady Sisbell's room?
+Dialogue: 0,0:18:43.41,0:18:47.99,Default,,0,0,0,,Yes. She's traveling, so she\Nleft the key with me.
+Dialogue: 0,0:18:55.87,0:18:59.08,Default,,0,0,0,,Alice, what do you think of her recently?
+Dialogue: 0,0:18:59.08,0:19:00.12,Default,,0,0,0,,Huh?
+Dialogue: 0,0:19:00.12,0:19:06.20,Default,,0,0,0,,As a queen, I wish for you two to be\Nas graceful as royal members should be.
+Dialogue: 0,0:19:06.20,0:19:10.37,Default,,0,0,0,,However, I am also your mother.
+Dialogue: 0,0:19:10.37,0:19:13.66,Default,,0,0,0,,Right now, the retainers do not\Nhave much faith in Sisbell.
+Dialogue: 0,0:19:13.66,0:19:19.58,Default,,0,0,0,,It will be difficult for her to win\Nthe election, but that cannot be helped.
+Dialogue: 0,0:19:19.58,0:19:24.95,Default,,0,0,0,,But as a mother, I have the\Nresponsibility to raise her well.
+Dialogue: 0,0:19:24.95,0:19:29.95,Default,,0,0,0,,Your Majesty, did you send\NLady Sisbell out because...
+Dialogue: 0,0:19:29.95,0:19:33.62,Default,,0,0,0,,No, that was because she was\Nbest suited for the job.
+Dialogue: 0,0:19:33.62,0:19:36.79,Default,,0,0,0,,But this is a good opportunity.
+Dialogue: 0,0:19:36.79,0:19:43.87,Default,,0,0,0,,I'm worried about Sisbell. What is she doing\Ncooped up in her room every day?
+Dialogue: 0,0:19:43.87,0:19:47.54,Default,,0,0,0,,It's only natural for a parent\Nto want to know these things.
+Dialogue: 0,0:19:50.04,0:19:52.70,Default,,0,0,0,,We will join you, Mother.
+Dialogue: 0,0:19:57.16,0:20:00.12,Default,,0,0,0,,It's one of the hotels Jarmrick Company owns.
+Dialogue: 0,0:20:00.12,0:20:05.04,Default,,0,0,0,,It's an established hotel\Nthat rates slightly above average.
+Dialogue: 0,0:20:05.04,0:20:08.33,Default,,0,0,0,,Perfect for an Imperial soldier\Nto stay for his vacation?
+Dialogue: 0,0:20:08.33,0:20:12.41,Default,,0,0,0,,Yes. If they're here on\Na secret op from the Empire,
+Dialogue: 0,0:20:12.41,0:20:18.04,Default,,0,0,0,,they'd stay at a better hotel or\None in affiliation with the Empire.
+Dialogue: 0,0:20:18.04,0:20:21.54,Default,,0,0,0,,Even better. We'll proceed as planned.
+Dialogue: 0,0:20:21.54,0:20:22.62,Default,,0,0,0,,Of course.
+Dialogue: 0,0:20:42.41,0:20:46.41,Default,,0,0,0,,Let's split up and look around.\NAlice, Rin, you two work together.
+Dialogue: 0,0:20:46.41,0:20:48.49,Default,,0,0,0,,Yes, Mother.
+Dialogue: 0,0:21:03.54,0:21:05.58,Default,,0,0,0,,Er, um...
+Dialogue: 0,0:21:05.58,0:21:06.87,Default,,0,0,0,,An assassin?
+Dialogue: 0,0:21:22.04,0:21:26.04,Default,,0,0,0,,I never thought I'd snoop around\Nmy little sister's room...
+Dialogue: 0,0:21:38.24,0:21:41.12,Default,,0,0,0,,Who do you work for? The Sovereignty?
+Dialogue: 0,0:21:41.12,0:21:44.37,Default,,0,0,0,,N-No, this is a misunderstanding!
+Dialogue: 0,0:21:48.12,0:21:50.33,Default,,0,0,0,,You're...
+Dialogue: 0,0:21:50.33,0:21:53.83,Default,,0,0,0,,I came to see you.
+Dialogue: 0,0:21:54.83,0:22:00.37,Default,,0,0,0,,How... How does Sisbell know Iska?
+Dialogue: 0,0:22:02.70,0:22:06.74,Default,,0,0,0,,Saint Disciple Iska, there's something\NI would like to ask you.
+Dialogue: 0,0:22:06.74,0:22:08.12,Default,,0,0,0,,Ask me?
+Dialogue: 0,0:22:09.66,0:22:13.91,Default,,0,0,0,,Would you accompany me to the Sovereignty?
+Dialogue: 0,0:22:15.93,0:22:19.95,Default,,0,0,0,,{\fad(500,0)\fs50\bord0\pos(640,264)\fnOpen Sans\clip(338,152,482,472)\t(0,1300,\clip(338,152,906,454))}Paradise:\NThe Girl Wishes Upon a Star
